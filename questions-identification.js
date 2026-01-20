@@ -51,7 +51,7 @@ const identificationQuestions = {
         ],
         1: [
             { question: "6 × 2 - 4 + 1? Isulat ang iyong sagot:", answer: "9" },
-            { question: "20 ÷ 5 + 6 × 3? Isulat ang iyong sagot:", answer: "20" },
+            { question: "20 ÷ 5 + 6 × 3? Isulat ang iyong sagot:", answer: "22" },
             { question: "7 × 3 - 4 + 8? Isulat ang iyong sagot:", answer: "25" },
             
         ],
